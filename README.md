@@ -11,6 +11,11 @@ EatFitGo is a full-stack fitness and diet recommendation mobile app built with t
 - 🔔 Push and email notifications for health reminders
 - 🧠 Microservices architecture for scalability and modularity
 
+## ⚙️ Repository Structure
+
+- [Frontend Repository](https://github.com/dfox131/frontend-repo.git): Contains the React Native code for the mobile app and client-side functionality.
+- [Backend Repository](https://github.com/dfox131/backend-repo.git): Contains the Node.js/Express backend and the microservices architecture for handling authentication, profile management, step tracking, diet recommendations, and notifications.
+
 ## 🧱 Tech Stack
 
 - **Frontend:** React Native
